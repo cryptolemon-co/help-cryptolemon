@@ -1,5 +1,5 @@
 # Pumpfun 开盘并捆绑买入工具使用手册
-
+[Switch to English Version](../en/pump_launch_and_bundled_buy_tool_user_guide.md)
 ## 核心功能
 
 ### 1. 批量捆绑买入

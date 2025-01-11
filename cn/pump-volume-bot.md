@@ -1,5 +1,5 @@
 # Pump 市值管理工具使用手册
-
+[Switch to English Version](../en/pump-volume-bot.md)
 ## 核心功能
 
 1. **智能批量交易，快速买入与卖出**  

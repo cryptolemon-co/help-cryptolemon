@@ -1,5 +1,5 @@
 # Pump 刷单工具使用手册
-
+[Switch to English Version](../en/automated-show-animations-pump.md)
 ### 核心功能
 
 

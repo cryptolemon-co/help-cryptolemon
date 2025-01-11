@@ -1,5 +1,5 @@
 # Pumpfun Launch and Bundled Buy Tool User Guide
-
+[切换到中文版本](../cn/pump-launch-and-buy-token-solana.md)
 ## Key Features
 
 1. **Batch Bundled Buy**

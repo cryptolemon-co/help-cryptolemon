@@ -1,5 +1,5 @@
 # Pump Market Management Tool User Guide
-
+[切换到中文版本](../cn/pump-volume-bot.md)
 ## Core Features
 
 

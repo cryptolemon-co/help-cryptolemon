@@ -1,5 +1,5 @@
 # Pump Automated Flashing Tool User Manual
-
+[切换到中文版本](../cn/automated-show-animations-pump.md)
 ### Core Features
 
 1. **Continuous Micro-Trading for Frequent Market Presence**  
